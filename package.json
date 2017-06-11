@@ -1,0 +1,33 @@
+{
+  "name": "liwenbo",
+  "version": "1.0.0",
+  "description": "项目",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/18801454709/angular.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-browserify": "*",
+    "gulp-concat": "*",
+    "gulp-connect": "*",
+    "gulp-htmlmin": "^3.0.0",
+    "gulp-minify": "*",
+    "gulp-minify-html": "*",
+    "gulp-mock-server": "*",
+    "gulp-rename": "*",
+    "gulp-rev": "*",
+    "gulp-rev-collector": "*",
+    "gulp-sass": "*",
+    "gulp-uglify": "*",
+    "gulp-webserver": "*",
+    "mockjs": "*",
+    "gulp-imagemin":"*"
+  },
+}
